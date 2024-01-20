@@ -8,7 +8,7 @@ Vulnerability Description: The system has an SQL injection vulnerability, which 
 
 **1、Log in to the system first (default password: admin/admin)**
 
-![image-20240120132623791](E:\cve\Barangay Population Monitoring System.assets\image-20240120132623791.png)
+![image-20240120132623791](https://github.com/modian-un/CVE/blob/main/Barangay%20Population%20Monitoring%20System.assets/image-20240120132623791.png)
 
 **2、Click Masterlist and click Delete button to grab the packet**
 
