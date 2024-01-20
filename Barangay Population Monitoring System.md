@@ -20,6 +20,6 @@ Vulnerability Description: The system has an SQL injection vulnerability, which 
 
 **4、The database name was successfully popped using sqlmap verification**
 
-![image-20240120133212599](E:\cve\Barangay Population Monitoring System.assets\image-20240120133212599.png)
+![image-20240120133212599](https://github.com/modian-un/CVE/blob/main/Barangay%20Population%20Monitoring%20System.assets/image-20240120133212599.png)
 
-![image-20240120133307683](E:\cve\Barangay Population Monitoring System.assets\image-20240120133307683.png)
+![image-20240120133307683](https://github.com/modian-un/CVE/blob/main/Barangay%20Population%20Monitoring%20System.assets/image-20240120133307683.png)
