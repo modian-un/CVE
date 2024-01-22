@@ -12,7 +12,7 @@ Vulnerability Description: The system has an SQL injection vulnerability, which 
 
 Vulnerability verification:
 
-**2、Log in to the system first **
+**2、Log in to the system first**
 
 ![image-20240122164821985](https://github.com/modian-un/CVE/blob/main/Best%20courier%20management%20system.assets/image-20240122164821985.png)
 
