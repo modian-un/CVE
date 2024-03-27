@@ -1,7 +1,8 @@
 ### Barangay Population Monitoring System has SQL injection vulnerabilities
 
 ##### Source code download：https://www.sourcecodester.com/php/17109/barangay-population-monitoring-system-using-php-mysql-and-chartjs-source-code.html
-
+##### Vendor Homepage: https://www.sourcecodester.com/php/17109/barangay-population-monitoring-system-using-php-mysql-and-chartjs-source-code.html
+##### Version: 1.0
 ##### Version：2024/1/15/15:06
 
 Vulnerability Description: The system has an SQL injection vulnerability, which allows attackers to obtain database information and gain website control permissions by inserting malicious SQL statements.
